@@ -4,3 +4,4 @@ new string
 другая строка
 
 Hello, git!
+Hello, git rebase!
