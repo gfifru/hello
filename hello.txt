@@ -2,3 +2,5 @@ My name Pavel
 new string
 новая строка
 другая строка
+
+Hello, git!
